@@ -1,6 +1,6 @@
 # Data-Analysis-Udacity
 
-<h1> Project: The Movie Database (TMDb)</h1>, this is the dataset that I have decided to investigate )
+<h1> Project: The Movie Database (TMDb)</h1> This is the dataset that I have decided to investigate )
 I would like to know if the budget affect also the amount of revenues. In other words is there a correlation between the budget and the revenues per film.
 
 Some of the questions that I am trying to answer:
